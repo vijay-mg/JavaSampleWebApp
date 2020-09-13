@@ -6,8 +6,8 @@
     <groupId>com.microsoft</groupId>
 	<artifactId>ROOT</artifactId>
 	<version>1.0</version>
-	<packaging>war</packaging>
-	<name>Sample Spring App</name>
+	<packaging>jar</packaging>
+	<name>SampleSpringApp</name>
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
